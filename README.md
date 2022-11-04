@@ -2,7 +2,7 @@
 
 ## A brief historic analysis of the World Cup:
 
-The FIFA World Cup is a football tournament celebrated every 4 years, where teams from different countries all over the world compete to win the most prestigious award in all of football. With the help of our dataframe we'll be able to see the evolution of the popularity of the World Cup through the years. Has the world of football grown in the last century?. Is the World Cup a good event to invest in given the current situation we live in with limited mobility to travel?.
+The FIFA World Cup is a tournament celebrated every 4 years, where teams from different countries all over the world compete to win the most prestigious award in all of football. With the help of our dataframe we'll be able to see the evolution of the popularity of the World Cup through the years. Has the world of football grown in the last century?. Is the World Cup a good event to invest in given the current situation we live in with limited mobility to travel?.
 
 We'll also use statistical testing in order to understand how likely is a penalty shootout to happen depending on the previous results of the game, meaning how probable is a penalty shootout during the World Cup. Also we'll test for the relation between the host country reaching the final of the tournament, given how playing locally may be considered an advantage.
 
